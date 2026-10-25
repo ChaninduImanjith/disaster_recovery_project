@@ -325,4 +325,4 @@ adk run disaster_assistant "What is the recorded flood status in Colombo?"
 
 ## License
 
-This project was developed as part of the Disaster Recovery Multi-Agent Assistant assignment. Supplied data records are for demonstration and educational purposes.
+This project was developed as part of the Disaster Recovery Multi-Agent Assistant. Supplied data records are for demonstration and educational purposes.
